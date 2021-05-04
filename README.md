@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 This project was created to improve my skills of React State & Working with Events, Rendering Lists & Conditional Content and Styling React Components.
 
 Link: https://xenodochial-wilson-f14005.netlify.app/
